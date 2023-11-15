@@ -14,4 +14,4 @@ java -classpath .bin/ src.Main
 -------------------
 
 ### Вывод нашей программы
-![Out](../farManager/images/out.png)
+![Out](images/out.png)
